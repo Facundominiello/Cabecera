@@ -1,7 +1,12 @@
 body{
-    background-color: blueviolet;
     font-family: 'Courier New', Courier, monospace;
     font-weight: bolder;
     color: #000;
     text-align: center;
+}
+.contendor{
+    width: 70%;
+    padding: 14em;
+    color: pink;
+    border-style: solid;
 }
