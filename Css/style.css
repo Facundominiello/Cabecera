@@ -4,9 +4,15 @@ body{
     color: #000;
     text-align: center;
 }
-.contendor{
+#cabecera{
+    font-size: 20px;
+}
+#contendor{
     width: 70%;
     padding: 14em;
     color: pink;
     border-style: solid;
+}
+p{
+    font-size: 30px;
 }
