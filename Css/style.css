@@ -1,0 +1,25 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: #000;
+    text-align: center;
+}
+#cabecera{
+    font-size: 20px;
+    text-align: center;
+}
+#contendor{
+    align-items: center;
+    width: 100%;
+    color: pink;
+    border-style: solid;
+}
+#p2{
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#p1{
+    font-size: 30px;
+    padding-top: 0;
+    background-color: rgb(246, 133, 152);
+}
